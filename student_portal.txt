@@ -1,4 +1,4 @@
-student Name 
-Student suc code
-Student course
-Student rollno
+student Name :savu tarunkumaar
+Student suc code:2352320269
+Student course:BCA
+Student rollno:54
